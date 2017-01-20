@@ -1,0 +1,9 @@
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\XamarinCallInterceptor.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.Core.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\assemblies\System.ServiceModel.Internals.dll

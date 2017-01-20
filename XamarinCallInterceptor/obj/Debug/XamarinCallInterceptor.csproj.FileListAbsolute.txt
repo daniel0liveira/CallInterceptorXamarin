@@ -1,0 +1,15 @@
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\bin\Debug\XamarinCallInterceptor.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\bin\Debug\XamarinCallInterceptor.pdb
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\bin\Debug\XamarinCallInterceptor.XamarinCallInterceptor.apk
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\bin\Debug\XamarinCallInterceptor.XamarinCallInterceptor-Signed.apk
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\XamarinCallInterceptor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\XamarinCallInterceptor.dll
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\XamarinCallInterceptor.pdb
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\android\bin\XamarinCallInterceptor.XamarinCallInterceptor.apk
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\res\layout\main.xml
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\res\values\strings.xml
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\res\drawable\icon.png
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\R.cs.flag
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\uploadflags.txt
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\obj\Debug\XamarinCallInterceptor.dll.mdb
+C:\Users\Daniel\Source\Repos\XamarinCallInterceptor\XamarinCallInterceptor\bin\Debug\XamarinCallInterceptor.dll.mdb
