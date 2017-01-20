@@ -32,7 +32,7 @@ namespace XamarinCallInterceptor
                 {
                     // read the incoming call telephone number...
                     string telephone = intent.GetStringExtra(TelephonyManager.ExtraIncomingNumber);
-                    if (telephone.Equals("41413103"))
+                    if (telephone.Equals("0000000"))
                     {
                         TelephonyManager mng = (TelephonyManager)context.GetSystemService(Context.TelephonyService);
 
